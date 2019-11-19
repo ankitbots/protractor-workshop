@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# compiled output
+transpiled/
+json-output-folder/
+
+# IDE - IntelliJ IDEA
+.idea
+logging
+report
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# others
+cucumberReport.json
+yarn-error.log
+debug.log

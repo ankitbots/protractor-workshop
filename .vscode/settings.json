@@ -1,0 +1,13 @@
+{
+    "cucumberautocomplete.steps": ["stepDefs/*.ts"],
+    "cucumberautocomplete.syncfeatures": "features/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.rulers": [90],
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "vscode.tsc.compiler.alertTSConfigChanges": "never"
+}
