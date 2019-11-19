@@ -10,9 +10,6 @@ Start the tests by running `yarn test`.
 
 Configure target environment:
 
-- by setting `INSIGHTUI_TEST_URL` environment variable (permanently)
-- by providing in git bash using: `$ INSIGHTUI_TEST_URL=https://xxx.com yarn test` (only valid for one call)
-- by setting in `.env` file
 
 Or simply use the commands `yarn test:maint` or `yarn test:dev`.
 
