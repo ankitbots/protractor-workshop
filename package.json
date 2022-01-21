@@ -33,7 +33,7 @@
     "jest": "^24.1.0",
     "jest-expect": "0.0.1",
     "latest-version": "^5.0.0",
-    "log4js": "^4.1.0",
+    "log4js": "^6.4.0",
     "mysql": "^2.17.1",
     "protractor-cucumber-framework": "^6.1.1",
     "protractor-http-client": "^1.0.4",
